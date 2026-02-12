@@ -62,7 +62,7 @@ const CONFIG = {
     music: {
         enabled: true,                     
         autoplay: true,                    
-        musicUrl: "https://res.cloudinary.com/deszwman9/raw/upload/v1770930105/watch_e3buzd", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/deszwman9/raw/upload/v1770930105/watch_e3buzd", 
         startText: "🎵 Play Music",
         stopText: "🔇 Stop Music",         
         volume: 0.75                        
