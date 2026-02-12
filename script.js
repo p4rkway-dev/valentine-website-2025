@@ -200,6 +200,5 @@ function createHeartExplosion() {
     }
 }
 
-
     });
 } 
