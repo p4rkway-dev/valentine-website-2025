@@ -46,7 +46,7 @@ const CONFIG = {
 
     colors: {
         backgroundStart: "#B185A7",      
-        backgroundEnd: "#8D6B94",        
+        backgroundEnd: "#7768AE",        
         buttonBackground: "#EBAFD4",     
         buttonHover: "#EFCFE3",          
         textColor: "#C98CA7"             
@@ -62,7 +62,7 @@ const CONFIG = {
     music: {
         enabled: true,                     
         autoplay: true,                    
-        musicUrl: "https://res.cloudinary.com/deszwman9/raw/upload/v1770930105/watch_e3buzd", 
+        musicUrl: "https://res.cloudinary.com/deszwman9/video/upload/v1770930771/Hozier_-_Do_I_Wanna_Know_BBC_Live_Version__mp3.pm_hjhoi5.mp3", 
         startText: "🎵 Play Music",
         stopText: "🔇 Stop Music",         
         volume: 0.75                        
