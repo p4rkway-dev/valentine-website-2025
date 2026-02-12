@@ -8,7 +8,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'], 
-        bees: ['🐝', '🌹','🌺']                      
+        bears: ['🐝', '🌹','🌺']                      
     },
 
     // Questions and answers
@@ -46,7 +46,7 @@ const CONFIG = {
 
     colors: {
         backgroundStart: "#B185A7",      
-        backgroundEnd: "#7768AE",        
+        backgroundEnd: "#CD8987",        
         buttonBackground: "#EBAFD4",     
         buttonHover: "#EFCFE3",          
         textColor: "#C98CA7"             
